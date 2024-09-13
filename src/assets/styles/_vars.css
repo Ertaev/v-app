@@ -1,0 +1,10 @@
+:root {
+	--main-dark-color-bg: #181818;
+	--dark-grey-color: hsla(160, 100%, 37%, 0.2);
+
+	--main-text-color: #FFFFFF;
+	--green-text-color: hsla(160, 100%, 37%, 1);
+	--grey-text-color: rgba(235, 235, 235, 0.64);
+
+	--main-transition: all .3s ease
+}
